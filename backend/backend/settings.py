@@ -12,7 +12,7 @@ DEBUG = False
 ALLOWED_HOSTS = ['123.123.123.123', 'localhost', '127.0.0.1', 'tolk.zapto.org', '51.250.111.145']
 
 
-# Application definition
+# Application  definition
 
 INSTALLED_APPS = [
     'api.apps.ApiConfig',
